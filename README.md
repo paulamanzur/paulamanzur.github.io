@@ -1,1 +1,0 @@
-# MT-PREDICT-Methodology
