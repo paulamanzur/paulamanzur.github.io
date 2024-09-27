@@ -28,7 +28,7 @@
 
 Enterprises in the localization sector handle diverse content types, requiring precise localization solutions. Options range from raw machine translation to transcreation. But how can they ensure the best match between content and localization method? Traditionally, the decision relied mostly on human judgment.
 
-The PREDICT Methodology offers a systematic framework for assessing MT suitability, aligning content type with the optimal localization solution. By integrating risk tolerance weights into binary queries about a source content and use case, PREDICT provides a score and recommended solution, from raw MT to human-only translation.
+The PREDICT Methodology offers a systematic approach for assessing MT suitability, aligning content type with the optimal localization solution. By integrating risk tolerance weights into binary queries about a source content and use case, PREDICT provides a score and recommended solution, from raw MT to human-only translation.
 
 This approach enables our business to provide the right quality for that specific content type, boost translation efficiency and reduce costs. Looking ahead, the methodology envisions integrating LLMs for automation and guidance, utilizing prompts to identify risk-mitigating strategies.
 
@@ -151,8 +151,7 @@ Exploratory evaluations for new content types and Periodic ones for validation (
 
 #### Can I use LLMs as Evaluators? 
 
-The Methodology was created with a human-centered approach. However, some experiments have been done with ChatGPT as an evaluator. Preliminary conclusions show that it requires several fine-tuning iterations for the prompts. Human evaluators are more reliable and more tests are needed. 
-If LLMs are used as evaluators, prompts need to be created from scratch and tested. There are no suggested prompts in the Methodology yet.
+The Methodology was created with a human-centered approach. However, some experiments have been done with ChatGPT as an evaluator. Preliminary conclusions show that it requires several fine-tuning iterations for the prompts. For now, human evaluators are more reliable. If LLMs are used as evaluators, prompts need to be created from scratch and tested. There are no suggested prompts in the Methodology yet.
 
 #### How can I validate PREDICT's recommendations?
 
