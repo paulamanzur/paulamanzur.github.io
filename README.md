@@ -32,7 +32,7 @@ The PREDICT Methodology offers a systematic approach for assessing MT suitabilit
 
 This approach enables our business to provide the right quality for that specific content type, boost translation efficiency and reduce costs. Looking ahead, the methodology envisions integrating LLMs for automation and guidance, utilizing prompts to identify risk-mitigating strategies.
 
-This case study, a contribution from _Booking.com's_ localization team, has been adapted and shared as open-source material in the **_[AMTA 2024](https://amtaweb.org/amta-2024/)_** proceedings. With a slightly modified version available, it aims to provide value for both suppliers and buyers within the localization industry.
+This case study, a contribution from _Booking.com's_ localization team, has been adapted and shared as open-source material in the **_[AMTA 2024](https://aclanthology.org/2024.amta-presentations.5.pdf)_** proceedings. With a slightly modified version available, it aims to provide value for both suppliers and buyers within the localization industry.
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 ## Getting Started
